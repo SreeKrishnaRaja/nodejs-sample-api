@@ -1,0 +1,23 @@
+{
+  "name": "NodeJS Sample API with MongoDB",
+  "version": "1.0.0",
+  "description": "Sample API's for NodeJS & MongoDB to perform basic CRUD operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "Node",
+    "MongoDB",
+    "Mongo",
+    "CRUD"
+  ],
+  "author": "Sree Krishna Raja K",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2"
+  }
+}
